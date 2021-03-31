@@ -2,12 +2,13 @@
   "name": "mock-server",
   "version": "1.0.0",
   "description": "Try to make jwt authenticate, socket.io and other mock data",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "json-server": "^0.16.3"
   },
   "devDependencies": {},
   "scripts": {
+    "server": "node server.js",
     "start": "json-server --watch user.json --port 1314"
   }
 }
