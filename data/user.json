@@ -1,5 +1,0 @@
-{
-    "users": [
-        { "id": 1, "name": "admin", "nickName": "admin", "email": "admin@yy.com", "password": "123456", "type": 1 }
-    ]
-}
